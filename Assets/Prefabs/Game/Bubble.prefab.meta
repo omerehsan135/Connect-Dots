@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8f653102621edb4448e0ad586264c20a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232880
+  packageName: Connect - Game Template (2021 LTS)
+  packageVersion: 1.0.1
+  assetPath: Assets/Ilumisoft/Connect/Assets/Prefabs/Game/Bubble.prefab
+  uploadId: 587035

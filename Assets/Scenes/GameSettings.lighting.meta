@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5075066e6fd1974e85ccd9d058cf00b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 232880
+  packageName: Connect - Game Template (2021 LTS)
+  packageVersion: 1.0.1
+  assetPath: Assets/Ilumisoft/Connect/Assets/Scenes/GameSettings.lighting
+  uploadId: 587035
